@@ -2,6 +2,15 @@
 
 This is my portfolio of me, my work, and my projects!
 
+# Features
+
+## Features of the 3D Portfolio Project
+
+- Animated 3D models and reveal animations
+- Realistic lighting and shadows
+- GSAP-powered scroll interactions
+- Responsive design with Tailwind CSS and Flexbox/Grid
+
 # Hi, I'm Noah! 👋
 
 I love to code as a hobby but do big projects sometimes.
