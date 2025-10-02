@@ -1,7 +1,7 @@
 import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import { useMediaQuery } from "react-responsive";
-import Room from "./Room.jsx";
+import { Room } from "./Room";
 
 const HeroExperience = () => {
   const isTablet = useMediaQuery({ query: "(max-width: 724px)" });
